@@ -1,4 +1,4 @@
-# GRC Security Framework Lab
+# Security GRC Lab 
 Este repositório reúne um conjunto estruturado de artefatos de **Governança, Riscos e Compliance (GRC)** aplicados a um cenário corporativo fictício (TechCorp).
 
 ## 📃POLÍTICA DE GESTÃO DE RISCOS 
@@ -13,7 +13,7 @@ Este repositório reúne um conjunto estruturado de artefatos de **Governança, 
 - 🔐 **Políticas de Segurança**  (Controle de Acesso, Gestão de Riscos, Gestão de Vulnerabilidades)
 - 🗺️ **Roadmap de implementação GRC**: Planejamento de implementação por fases
 - 📊 **Comparativo entre frameworks de GRC**: Análise entre ISO, NIST, CIS e outros
-- ✅ Termo formal de aceite de risco
+- ✅ **Politica de Responsabilidade Compartilhada**
 
 
 ## 🚀 Como Usar
